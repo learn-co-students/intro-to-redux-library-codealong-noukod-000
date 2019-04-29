@@ -1,6 +1,6 @@
 # Intro to Redux: Reading Data from State
 
-## Objectives
+### Objectives
 
 * Use the `createStore()` method provided by the redux library.
 
