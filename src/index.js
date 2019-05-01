@@ -11,5 +11,3 @@ const store = createStore(
 ); /* code change */
  
 ReactDOM.render(<App store={store} />, document.getElementById('root'));
-//ReactDOM.render(<App />, document.getElementById('root'));
-
