@@ -8,6 +8,7 @@ import './index.css';
 
 const store = createStore(shoppingListItemReducer);
 
+// code change - added Provider to wrap around App
 ReactDOM.render(
   <Provider store={store}>
     <App />
